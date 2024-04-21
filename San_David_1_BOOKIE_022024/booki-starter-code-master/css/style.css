@@ -538,6 +538,7 @@ footer {
         padding: 0;
     }
 
+    /** inversion de l'ordre des sections**/
     .all-articles {
         flex-direction: column-reverse;
     }
